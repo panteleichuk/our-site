@@ -1,1 +1,76 @@
 
+body {
+    font-family: sans-serif;
+}
+ 
+header{
+    background-color: #1049A9;
+}
+ 
+header img{
+    width: 62px;
+    height: 57px;
+   
+}
+nav a{
+    color: black;
+    font-size: 14px;
+    background-color: white;
+    border: 3px  solid black;
+    text-decoration: none;
+    padding: 5px;
+    margin:  25px;
+}
+nav{
+    padding: 50px;
+}
+.first{
+    margin-left: 150px;
+}
+ 
+main img{
+    width: 197px;
+    height: 114px;
+    margin: 100px;
+}
+h1,p,h2{
+    text-align: center;
+}
+table,td,tr{
+    border: 3px solid #1049A9;
+    border-collapse: collapse;
+    text-align: center;
+}
+ 
+ul li{
+    list-style:none;
+    line-height: 30px;
+}
+ 
+ul li:before{
+    content: "";
+    background: url("https://drive.google.com/uc?export=view&id=1KbszUSd0cjUwjUqb9D9QP-R0lVSVsBGF");
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+footer{
+     background-color: #1049A9;
+     padding: 20px;
+}
+ 
+footer p{
+    color: black;
+    font-size: 14px;
+    background-color: white;
+    border: 3px  solid black;
+    padding: 5px;
+    margin:  25px;
+}
+ 
+footer a{
+ 
+    text-decoration: none;
+ 
+}
