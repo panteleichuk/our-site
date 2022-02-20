@@ -1,1 +1,93 @@
 
+body{
+    background-color:#052C6E;
+    color: rgb(185, 185, 185);
+}
+header b{
+    font-size: 50px;
+  color:  #ffffff;
+}
+ 
+header {
+    color: white;
+    background-color:#29497F;
+    padding: 10px;
+ 
+}
+ 
+nav{
+     margin: 20px;
+}
+ul li{
+    list-style: none;
+    line-height: 30px;
+}
+ul li:before{
+    content: "";
+    background-color: url("https://drive.google.com/uc?export=veiw&id=1pO37o_CKY_O-JsicCia6AkR5X5y3TfLP") ;
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 5px;
+}
+.img{
+    text-align: right;
+}
+nav a  {
+    color: black;
+    background-color: Gainsboro;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 10px;
+}
+ 
+.hamster{
+    margin-left: 40px;
+}
+.crackers{
+background-color: rgb(58, 57, 57);
+border-radius: 30px;
+padding: 5px;
+    padding-left: 80px;}
+ 
+header img {
+    width: 100px;
+    height: 85px;
+}
+ 
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+ 
+ h2 {
+    background-color: gainsboro;
+    color: rgb(75, 95, 122);
+    font-size: 30px;
+}
+ 
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid rgb(75, 95, 122);
+    border-radius: 15px;
+    text-align: top;
+}
+ 
+p img {
+    height: 100px;
+    width: 180px;
+}
+ footer{
+     background-color: #2f3c3f;
+     padding: 10px;
+ }
+ footer p {
+   background-color: white;
+   padding: 5px;
+ }
+ 
+ 
