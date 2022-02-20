@@ -1,1 +1,78 @@
 
+body {
+    font-family: sans-serif;
+}
+ 
+header {
+    background-color: #352da0  ;
+    padding: 10px ;
+}
+header img {
+    border: 2px solid #03043a ;
+ 
+}
+header b{
+    color: aliceblue;
+    font-size:  24px;
+ 
+}
+body {
+    background-color:   #8687c9 ;
+ 
+}
+header a {
+    background-color: rgb(151, 167, 185);
+    border-radius: 5px ;
+    text-decoration: none ;
+    color: black ;
+    padding: 5px ;
+}
+main h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: center;
+ 
+}
+footer p{
+    border: 2px solid #050452 ;
+}
+nav{
+    margin: 20px;
+}
+nav a {
+    border: 2px solid #232353 ;
+    background-color: rgb(182, 187, 255);
+    text-decoration: none ;
+    padding: 5px;
+    margin: 10px;
+    }
+table,td,tr {
+    border: 2px solid #0e055e ;
+    border-collapse: collapse;
+    }
+main img {
+         border: 2px solid #090520 ;
+    }
+.main {
+    margin-left: 75px;
+}
+ul li{
+    list-style: none;
+    line-height: 30px;
+}
+ul li:before {
+    content: "";
+    background: url("https://drive.google.com/uc?export=veiw&id=1KbszUSd0cjUwjUqb9D9QP-R0lVSVsBGF");
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+main p{
+    font-size: 26px;
+}
+td {
+    text-align: center;
+}
+td img{
+    margin:10px;
+}
