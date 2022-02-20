@@ -1,1 +1,116 @@
+body {
+    font-family: Balsamiq-Sans;
+}
+nav{
+    background-color:#29497F ;
+    border: 8px solid #052C6E;
+    padding: 15px;
+}
+header img{
+    width: 80px;
+}
+main h1{
+    text-align: center;
+    color: #6A92D4;  
+}
+main p{
+   text-align: center;
+    Color:;
+}
+nav img{
+    border: 8px solid #052C6E;
+ 
+}
+nav a{
+    color: aliceblue;
+    background-color:#052C6E ;
+    padding: 10px;
+    margin:20px;
+    margin-top: 30px;    
+}
+main h3,h2{
+    color: #4479D4;
+    text-align: center;
+}
+.shapka{
+    width: 900px;
+    height: 100px;
+}
+.protest{
+    width: 272px;
+    height: 244px;
+    margin-left: 100px;
+ 
+}
+ 
+.protestP{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    color: #4479D4;
+}
+.protestP2{
+     color:#4479D4 ;
+}
+.protestP3{
+     color:#4479D4 ;
+}
+ 
+td p{
+    font-size: 36px;
+}
+.Vopros1{
+     text-align: center;
+     color: #6A92D4;
+}
+.Vopros2{
+    color: #1049A9;
+    text-align: center;
+}
+.top{
+    color: #364864;
+}
+.SlovoProtest{
+    color: #1049A9;
+    text-align: center;
+    font-size: 50px;
+}
+.top_vkus{
+    background-color: #29497F;
+    border: 5px solid  #052C6E;
+}
+.top_vkus img{
+    width: 150px;
+   
+}
+.top_vkus_img{
+    height:150px;
+    text-align: center;
+}
+.top_vkus{
+    color: white;
+}
+.angry{
+    width: 700px;
+    height: 100px;
+}
+.angryP{
+    text-align: center;
+    color:
+#1049A9;
+}
+ 
+ul li{
+    list-style: none;
+    line-height: 30px;
+    font-size:20px;
+}
+ul li:before{
+    content: "";
+    background:url("https://drive.google.com/uc?export=view&id=1KbszUSd0cjUwjUqb9D9QP-R0lVSVsBGF");
+    float:left;
+    width:30px;
+    height:30px;
+    margin-right:10px;
+}
+ 
 
