@@ -1,1 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color:#29497F ;
+padding: 10px;
+}
+.four {
+    width: 60px;
+    height: 60px;
+}
+.five {
+    font-size: 21px;
+}
+.six {
+     width:401px;
+    height: 303px;
+}
+nav a {
+    color: white ;
+}
+footer {
+    background-color:blue ;
+padding: 10px;
+}
 
