@@ -1,1 +1,38 @@
 
+body {
+    font-family: sans-serif;
+    background-color:   #8687c9 ;
+}
+header {
+    background-color: #352da0  ;
+    padding: 10px ;
+}
+header img {
+    border: 2px solid #03043a ;
+ 
+}
+header b{
+    color: aliceblue;
+    font-size:  24px;
+}
+header a {
+    background-color: rgb(151, 167, 185);
+    border-radius: 5px ;
+    text-decoration: none ;
+    color: black ;
+    padding: 5px ;
+ 
+}
+nav a {
+  border: 2px solid #03043a ;
+ 
+}
+main p {
+   
+}
+.img_img {
+    border: 2px solid #090520 ;
+    width: 300px;
+    height: 300px;
+}
+ 
