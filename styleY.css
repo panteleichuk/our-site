@@ -1,0 +1,111 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    margin: 20px 10px 0px 10px;
+}
+.gallery {
+    background-color: lightgray;
+    padding: 25px;
+}
+.first {
+    width: 50px;
+    height: 50px;
+    
+}
+.second {
+    margin: 0px 40px 20px 40px;
+    padding: 8px 15px 8px 15px;
+    background-color: rgb(0, 183, 255);
+    text-decoration: none;
+    margin-left: 200px;
+}
+.three {
+    margin: 0px 40px 20px 40px;
+    padding: 8px 15px 8px 15px;
+    background-color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+.four {
+    margin: 0px 40px 20px 40px;
+    padding: 8px 15px 8px 15px;
+    background-color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+header nav {
+    margin-bottom: 0px;
+}
+.five {
+    width: 180px;
+    height: 130px;
+    padding: 0px;
+    margin-left: 280px;
+}
+.six {
+    width: 130px;
+    height: 160px;
+    margin: 30px 40px 0px 40px;
+}
+.seven {
+    width: 180px;
+    height: 130px;
+}
+.eight {
+    width: 180px;
+    height: 130px;
+    margin:6px;
+    margin-left: 280px;
+}
+.nine {
+    width: 180px;
+    height: 130px;
+    margin: 6px;
+}
+.ten {
+    width: 180px;
+    height: 130px;
+    margin: 6px;
+}
+footer {
+    background: lightblue;
+    padding: 5px 10px 5px 10px;
+}
+footer p {
+    background-color: white;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.eleven {
+    background-color: blue;
+    padding: 10px;
+}
+ul {
+    list-style: url("https://drive.google.com/uc?export=view&id=1KbszUSd0cjUwjUqb9D9QP-R0lVSVsBGF");
+}
+img {
+    border: 3px solid black;
+}
+footer {
+    border: 3px solid black;
+}
+header {
+    border: 3px solid black;
+}
+ul li {
+    line-height: 30px;
+    font-size: 30px;
+}
+p {
+    font-size: 30px;
+    padding: 50px;
+}
+ul li:before {
+    width: 60px;
+    height: 60px;
+    background:url("https://drive.google.com/uc?export=view&id=1KbszUSd0cjUwjUqb9D9QP-R0lVSVsBGF");
+}
